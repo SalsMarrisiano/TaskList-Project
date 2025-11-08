@@ -103,7 +103,7 @@ body {
 
 .greeting {
     font-size: 16px;
-    color: #6b7280;
+    color: black;
     margin-bottom: 10px;
 }
 
@@ -115,7 +115,7 @@ body {
 
 .title-section h1 .task-count {
     color: #ec4899;
-}
+} 
 
 .add-btn {
     background: #8b5cf6;
@@ -308,7 +308,7 @@ body {
 
 .stat-label {
     font-size: 13px;
-    color: #6b7280;
+    color: black;
     margin-bottom: 8px;
 }
 
