@@ -46,7 +46,7 @@ function updateGreeting() {
     else if (hour >= 18) greet = "Good Evening";
     document.getElementById(
         "greeting"
-    ).textContent = `${greet}, Codynn`;
+    ).textContent = `${greet}, Iver`;
 }
 
 function saveData() {
