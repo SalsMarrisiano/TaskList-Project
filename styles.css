@@ -153,6 +153,10 @@ body {
     color: #1f2937;
 }
 
+.section-header p {
+    color: white;
+}
+
 .badge {
     padding: 4px 12px;
     border-radius: 20px;
@@ -218,7 +222,7 @@ body {
 
 .task-title.completed {
     text-decoration: line-through;
-    color: #9ca3af;
+    color: white;
 }
 
 .status-badge {
